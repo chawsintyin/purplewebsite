@@ -1,0 +1,129 @@
+         #header   
+
+	<div id="logo">
+                <div id="logo_text">
+                    <!-- class="logo_colour", allows you to change the colour of the text -->
+                    <h1><a href="index.html">simple<span class="logo_colour">style_purple</span></a></h1>
+                    <h2>Simple. Contemporary. Website Template.</h2>
+                </div>
+            </div>
+            <div id="menubar">
+                <ul id="menu">
+                    <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+                    <li class="selected"><a href="index.html">Home</a></li>
+                    <li><a href="examples.html">Examples</a></li>
+                    <li><a href="page.html">A Page</a></li>
+                    <li><a href="another_page.html">Another Page</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </div>
+
+ 		#sidebar_container
+<div class="sidebar">
+                    <div class="sidebar_top"></div>
+                    <div class="sidebar_item">
+                        <!-- insert your sidebar items here -->
+                        <h3>Latest News</h3>
+                        <h4>New Website Launched</h4>
+                        <h5>February 1st, 2014</h5>
+                        <p>2014 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
+                    </div>
+                    <div class="sidebar_base"></div>
+                </div>
+                <div class="sidebar">
+                    <div class="sidebar_top"></div>
+                    <div class="sidebar_item">
+                        <h3>Useful Links</h3>
+                        <ul>
+                            <li><a href="#">link 1</a></li>
+                            <li><a href="#">link 2</a></li>
+                            <li><a href="#">link 3</a></li>
+                            <li><a href="#">link 4</a></li>
+                        </ul>
+                    </div>
+                    <div class="sidebar_base"></div>
+                </div>
+
+
+#content
+<!-- insert the page content here -->
+                <h1>Welcome to LaWun BookShelf.</h1>
+                <p>This is all about books I've collected and read. </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dignissim, sapien et suscipit vehicula, ante arcu ornare lacus, sed porta lacus lacus id turpis. Morbi nisl augue, tempus sit amet libero in, tincidunt sodales ipsum. Morbi ex neque, iaculis at magna nec, posuere dapibus libero. Cras quis ipsum metus. Proin cursus leo tempus aliquam volutpat. Morbi metus purus, hendrerit et risus et, placerat luctus justo. Mauris posuere, magna sit amet auctor viverra, enim nulla feugiat velit, nec blandit dui lectus nec augue. Ut pharetra, elit quis euismod tincidunt, ex leo vestibulum massa, at condimentum neque velit id purus. In ac mauris at urna faucibus vestibulum ut eget lorem. Nullam laoreet ipsum turpis, nec sodales est facilisis vitae.</p>
+                <p>You can view more books on my BookList page </a>.</p>
+            
+                <h2>Book Categories</h2>
+                <p>We have following book categories:</p>
+                <ul>
+                    <li>Story</li>
+                    <li>Novel</li>
+                    <li>Science Fiction</li>
+                    <li>Play Book</li>
+                    <li>Cartoons</li>
+
+                </ul>
+
+#footer
+<p><a href="index.html">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="another_page.html">Another Page</a> | <a href="contact.html">Contact Us</a></p>
+            <p>Copyright &copy; simplestyle_purple </p>
+
+
+#About Us
+<h2>About Us</h2>
+<p>images can be placed on the left, in the center or on the right:</p>
+<span class="left"><img src="style/graphic.png" alt="example graphic" /></span>
+ <p>
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum.
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<h2>HeadLine</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
+ aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+ <h2>HeadLine</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
+ aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
+ #my favourites
+
+ <p>These are my favourite book list as of now:</p>
+                <ul>
+                    <li>Book 1</li>
+                    <li>Book 2</li>
+                    <li>Book 3</li>
+                    <li>Book 4</li>
+                </ul>
+<h2>My Favourite 1</h2>
+ <p>images can be placed on the left, in the center or on the right:</p>
+<span class="left"><img src="style/graphic.png" alt="example graphic" /></span>
+ <p>
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum.
+</p>
+
+<h2>My Favourite 2</h2>
+ <p>images can be placed on the left, in the center or on the right:</p>
+<span class="left"><img src="style/graphic.png" alt="example graphic" /></span>
+ <p>
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum.
+</p>
+
+<h2>My Favourite 2</h2>
+ <p>images can be placed on the left, in the center or on the right:</p>
+<span class="left"><img src="style/graphic.png" alt="example graphic" /></span>
+ <p>
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum.
+</p>
+
+<h2>My Favourite 4</h2>
+ <p>images can be placed on the left, in the center or on the right:</p>
+<span class="left"><img src="style/graphic.png" alt="example graphic" /></span>
+ <p>
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum.
+</p>
